@@ -40,5 +40,5 @@ and perform an analysis on the reduced graph, and making estimates for the real 
 
 * Reduce a graph
 ```console
-perl reduce.pl --input big.fsm --n 7 > small.fsm # n is the maximum number of states
+$ perl reduce.pl --input big.fsm --n 7 > small.fsm # n is the maximum number of states
 ```
